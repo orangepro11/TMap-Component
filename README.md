@@ -11,7 +11,7 @@
 ## 安装
 
 ```
-npm install t-map
+npm install tmap-component
 ```
 
 ## 快速上手
