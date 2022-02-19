@@ -24,7 +24,7 @@ npm install tmap-component
 </template>
 
 <script>
-import TMap from '@/components/TMap/TMap.vue';
+import TMap from 'tmap-component';
 
 export default {
   name: 'Home',
