@@ -3,6 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "description": "一个基于天地图的API封装的vue2组件",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
