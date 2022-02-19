@@ -16,11 +16,11 @@ export default {
     },
     latitude: {
       type: [Number,String],
-      default: '41.81762080226399'
+      default: '44.81762080226399'
     },
     longitude: {
       type: [Number,String],
-      default: '123.43794223267942'
+      default: '125.43794223267942'
     },
     zoom: {
       type: [Number,String],
